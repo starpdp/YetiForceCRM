@@ -1,0 +1,4 @@
+Please be informed that i have installed yetiforceCRM but getting following error -
+
+
+Notice: Undefined index: layout in /home/starpdp/erp.sasanghalam.com/vendor/yetiforce/Session/Base.php on line 50
